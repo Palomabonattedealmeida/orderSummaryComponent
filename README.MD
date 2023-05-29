@@ -1,0 +1,1 @@
+Página estática mostrando o componente de resumo do pedido. Aperfeiçoamento de Html e Css.
