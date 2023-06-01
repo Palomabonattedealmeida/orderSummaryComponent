@@ -1,0 +1,49 @@
+body {
+    font-family:"Red Hat Display", sans-serif;
+    background-image: url(pattern-background-desktop.svg) ;
+}
+
+header {
+    text-align: center;
+    border-radius: 10px/20px;
+}
+
+body {
+    text-align: center;
+
+}
+
+section h2 {
+    color: #070799
+}
+
+section p {
+    color:#d3d3d3
+    
+}
+
+section button {
+    background-color: #070799;
+    color: #d3d3d3;
+    border-radius: 10px/20px;
+    width: 300px;
+    height: 30px ;
+    transition: 3s;
+}
+
+section h3 {
+    column-width: auto;
+}
+
+main {
+    background-color: #ffffff;  
+    padding:center;
+    
+    
+}
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
