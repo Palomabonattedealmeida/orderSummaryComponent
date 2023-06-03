@@ -17,18 +17,39 @@ section h2 {
     color: #070799
 }
 
-section p {
-    color:#d3d3d3
-    
+nav li {
+
+	display: inline;
+	margin: 0 0 0 15px;
+    color:#070799
 }
 
+section h3 {
+
+    display: inline;
+    margin: 0 0 0 15px;
+}
+ 
+    
+
 section button {
+    
     background-color: #070799;
     color: #d3d3d3;
+    box-shadow: 10px 10px 10px 0 #000000;
     border-radius: 10px/20px;
     width: 300px;
     height: 30px ;
-    transition: 3s;
+    opacity: 1;
+    transition: 400ms;
+    cursor:pointer    
+    
+}
+
+section button:hover {
+
+    opacity: 0.3s;
+
 }
 
 section h3 {
